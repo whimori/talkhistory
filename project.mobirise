@@ -58,7 +58,7 @@
     "cssOptimize": true,
     "PWA": {
       "enabled": true,
-      "name": "",
+      "name": "토크히스토리",
       "icon": "@PROJECT_PATH@/assets/images/-1-512x512.png",
       "themeColor": "#d70051"
     },
