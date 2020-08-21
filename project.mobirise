@@ -53,7 +53,7 @@
     "pwa-switcher": true,
     "htmltag": "<html>",
     "uniqCompNum": 9,
-    "versionPublish": "4.12.4",
+    "versionPublish": "5.0.29",
     "screenshot": "screenshot.png",
     "cssOptimize": true,
     "PWA": {
